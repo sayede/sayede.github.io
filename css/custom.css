@@ -1,5 +1,30 @@
-/* http://www.informatik.uni-trier.de/~ley/faq/What+is+the+meaning+of+the+colors+in+the+publication+lists.html */
-/* DBLP: Books and Theses*/
+.img {
+    opacity: 0.5;
+    filter: grayscale(1);
+}
+.img:hover {
+    opacity: 1.0;
+    filter: grayscale(0);
+}
+.csl-left-margin {
+    display: table-cell;
+    width: 1%;
+}
+.csl-right-inline{
+	padding-left:10px;
+    display: table-cell;
+    white-space: normal;
+}
+
+label, input {
+    display: block;
+}
+
+label {
+    margin-bottom: 20px;
+}
+
+h1.YEAR { font-size: 40px; color: #A94C7B;}
 
   .pad {
       padding-left: 30px;
