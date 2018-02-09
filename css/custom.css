@@ -110,6 +110,7 @@ section.resume-section {
   color: #40A881 !important; }
 
 a {
-  color: #F6AD6F; }
-  a:hover, a:focus, a:active {
-    color: #40A881; }
+  color: #ac2773; }
+
+a:hover, a:focus, a:active {
+    color: #952c82;; }
